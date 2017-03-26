@@ -1,2 +1,2 @@
 # vpn-tunnel
-Quick way to spawn VPS with OpenVPN server
+More information at: http://mkaczanowski.com/vpn-tunnel-one-click-setup/
